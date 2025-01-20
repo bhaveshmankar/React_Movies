@@ -79,18 +79,3 @@ react-movies/
 - **Base URL:** `https://www.googleapis.com/youtube/v3`
 - **Authentication:** API Key (stored in `.env` file)
 
-## Contributing
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-# Credits
-
-This project idea is gotten from the foundational work by [jason.codes](https://movies.jason.codes/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
