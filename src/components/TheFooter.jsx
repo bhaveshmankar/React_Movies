@@ -1,4 +1,3 @@
-import React from "react";
 import IconVercel from "./icon/IconVercel";
 import IconTMDB from "./icon/IconTMDB";
 
@@ -34,7 +33,7 @@ const TheFooter = () => {
       </div>
       <div className="flex flex-row gap-4 mt-5 items-center">
         <a
-          href="https://github.com/pirateIV/movies"
+          href="https://github.com/bhaveshmankar/React_Movies"
           target="_blank"
           aria-label="Link to GitHub account"
           rel="noopener"
